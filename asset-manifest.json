@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gpt3.github.io/static/css/main.8c994c3a.css",
-    "main.js": "/gpt3.github.io/static/js/main.fa8a1141.js",
+    "main.js": "/gpt3.github.io/static/js/main.c8f2e753.js",
     "static/media/ai.png": "/gpt3.github.io/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/gpt3.github.io/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/gpt3.github.io/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/gpt3.github.io/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/gpt3.github.io/index.html",
     "main.8c994c3a.css.map": "/gpt3.github.io/static/css/main.8c994c3a.css.map",
-    "main.fa8a1141.js.map": "/gpt3.github.io/static/js/main.fa8a1141.js.map"
+    "main.c8f2e753.js.map": "/gpt3.github.io/static/js/main.c8f2e753.js.map"
   },
   "entrypoints": [
     "static/css/main.8c994c3a.css",
-    "static/js/main.fa8a1141.js"
+    "static/js/main.c8f2e753.js"
   ]
 }
